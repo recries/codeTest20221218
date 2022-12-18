@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author recri
+ *
+ */
+module codingtest {
+}
